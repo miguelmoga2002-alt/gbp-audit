@@ -1,0 +1,15 @@
+{
+  "name": "gbp-audit",
+  "version": "1.0.0",
+  "description": "Monthly Google Business Profile audit of a business and its local competitors: rating, reviews, owner replies, posts and website tracking, turned into a list of concrete fixes.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "demo": "node demo/run.mjs",
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "author": "Miguel Morales García"
+}
